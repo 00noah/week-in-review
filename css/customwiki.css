@@ -1,0 +1,23 @@
+.panel-success {
+  background-color: #f5fffa;
+}
+
+.panel-info {
+  background-color: #f5faff;
+}
+
+.panel-danger {
+  background-color: #fad2d9;
+}
+
+.panel-danger > .panel-heading {
+background-color: #fcbdc8;
+}
+
+.panel-warning {
+  background-color: #faf5ff;
+}
+
+.panel-warning > .panel-heading {
+background-color: #ddcef2;
+}
